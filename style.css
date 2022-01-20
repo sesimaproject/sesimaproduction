@@ -1,4 +1,6 @@
 #rico {
-position: bottom right; 
+position: relative;
+  bottom: 10px;
+  right: 10px;
   hight: 150px;
 }
